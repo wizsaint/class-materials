@@ -1,0 +1,8 @@
+site_name: Class Materials
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - search.suggest
+markdown_extensions:
+  - attr_list
